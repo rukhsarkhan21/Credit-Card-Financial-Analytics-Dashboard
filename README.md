@@ -1,3 +1,6 @@
+## Project Overview
+This Power BI project analyzes credit card customer behavior, transaction patterns, revenue generation, and customer demographics. The dashboard provides actionable insights for business decision-making.
+
 # Credit-Card-Financial-Analytics-Dashboard
 
 Tools Used:
